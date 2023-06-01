@@ -32,21 +32,28 @@
  
 
   <a href="https://github.com/Unreasonable324">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=nord_dark" />
   </a>
 
   <a href="https://github.com/Unreasonable324">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=nord_dark" />
   </a>
+  
+  <a href="https://github.com/Unreasonable324">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=default" />
+  </a>
+
+  <a href="https://github.com/Unreasonable324">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=default" />
+  </a>
 
  
 
- 
 
 
 
 
-[![wakatime](https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23.svg?style=flat-square)](https://wakatime.com/@82b4e55b-b819-435e-9beb-0ebadd36dc23)
+[![wakatime](https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23.svg?style=for-the-badge)](https://wakatime.com/@82b4e55b-b819-435e-9beb-0ebadd36dc23)
 
 
 
