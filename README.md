@@ -44,7 +44,7 @@
 ##
 
 
- 
+
 
 
 
@@ -57,5 +57,6 @@
 
 
 
-
-
+<!-- https://shields.io/
+https://github.com/simple-icons/simple-icons/blob/master/slugs.md
+https://github.com/vn7n24fzkq/github-profile-summary-cards -->
