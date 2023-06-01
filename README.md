@@ -6,6 +6,9 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i>
 </p>
+
+[Telegram](http://t-do.ru/aspia_ru "@shumakov_epta")<br>
+
 [![wakatime](https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23.svg?style=flat-square)](https://wakatime.com/@82b4e55b-b819-435e-9beb-0ebadd36dc23)
 
 
