@@ -17,45 +17,59 @@
  [![CSS](https://img.shields.io/badge/CSS-35495E?style=for-the-badge&logo=css3)](https://github.com/Unreasonable324)
  [![JAVASCRIPT](https://img.shields.io/badge/Java_Script-35495E?style=for-the-badge&logo=javascript)](https://github.com/Unreasonable324)
  [![BEM](https://img.shields.io/badge/BEM-35495E?style=for-the-badge&logo=bem)](https://github.com/Unreasonable324)
+ [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
  [![FIGMA](https://img.shields.io/badge/Figma-35495E?style=for-the-badge&logo=figma)](https://github.com/Unreasonable324)
  [![Axios](https://img.shields.io/badge/Axios-35495E?style=for-the-badge&logo=Axios)](https://github.com/Unreasonable324)
  [![npm](https://img.shields.io/badge/npm-35495E?style=for-the-badge&logo=npm)](https://github.com/Unreasonable324)
  [![sass](https://img.shields.io/badge/sass-35495E?style=for-the-badge&logo=sass)](https://github.com/Unreasonable324)
- [![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python)](https://github.com/Unreasonable324)
  [![Nodejs](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=Nodedotjs)](https://github.com/Unreasonable324)
- [![Redis](https://img.shields.io/badge/Redis-35495E?style=for-the-badge&logo=Redis)](https://github.com/Unreasonable324)
- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-35495E?style=for-the-badge&logo=PostgreSQL)](https://github.com/Unreasonable324)
- [![Django](https://img.shields.io/badge/Django-35495E?style=for-the-badge&logo=Django)](https://github.com/Unreasonable324)
  [![RESTAPI](https://img.shields.io/badge/REST_API-35495E?style=for-the-badge)](https://github.com/Unreasonable324)
- [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
+ [![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python)](https://github.com/Unreasonable324)
+ [![Django](https://img.shields.io/badge/Django-35495E?style=for-the-badge&logo=Django)](https://github.com/Unreasonable324)
+ [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-35495E?style=for-the-badge&logo=PostgreSQL)](https://github.com/Unreasonable324)
+ [![Redis](https://img.shields.io/badge/Redis-35495E?style=for-the-badge&logo=Redis)](https://github.com/Unreasonable324)
  
  
-
+<!--  <details> -->
+<!-- <p align="center"> -->
+  <a href="https://github.com/Unreasonable324">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark" />
+  </a>
+<!--   <a href="https://github.com/Unreasonable324">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unreasonable324&hide_border=true&card_width=338&theme=github_dark" />
+  </a> -->
+<!--   <a href="https://github.com/Unreasonable324">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unreasonable324&theme=github_dark" />
+  </a> -->
+  <a href="https://github.com/Unreasonable324">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=nord_dark" />
+  </a>
+<!-- </p> -->
+<!-- </details> -->
  
  
+ 
+
+ 
+<a href="https://leetcode.com/wervlad">
+    http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark
+</a>
 
 
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
+
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
+
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset}
 
 
-
-
-
-[My Telegram](https://t.me/shumakov_epta "@shumakov_epta")<br>
-
-
-
-https://img.shields.io/badge/my%20telegram-%40shumakov__epta-brightgreen
 
 [![wakatime](https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23.svg?style=flat-square)](https://wakatime.com/@82b4e55b-b819-435e-9beb-0ebadd36dc23)
 
- [![Vue][Vue.js]][Vue-url]
- [![Telegram][Telegram]][Telegram-url]
- 
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Telegram]: https://img.shields.io/badge/my%20telegram-%40shumakov__epta-brightgreen
-[Telegram-url]: https://t.me/shumakov_epta
+
 
 
 
