@@ -30,44 +30,26 @@
  [![Redis](https://img.shields.io/badge/Redis-35495E?style=for-the-badge&logo=Redis)](https://github.com/Unreasonable324)
  
  
-<!--  <details> -->
-<!-- <p align="center"> -->
+
   <a href="https://github.com/Unreasonable324">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark" />
   </a>
-<!--   <a href="https://github.com/Unreasonable324">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unreasonable324&hide_border=true&card_width=338&theme=github_dark" />
-  </a> -->
-<!--   <a href="https://github.com/Unreasonable324">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unreasonable324&theme=github_dark" />
-  </a> -->
+
   <a href="https://github.com/Unreasonable324">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=nord_dark" />
   </a>
-<!-- </p> -->
-<!-- </details> -->
- 
- 
- 
 
  
-<a href="https://leetcode.com/wervlad">
-    http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark
-</a>
+ 
+ 
 
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
 
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
-
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
-
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset}
-
-
+<p align="center">
 
 [![wakatime](https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23.svg?style=flat-square)](https://wakatime.com/@82b4e55b-b819-435e-9beb-0ebadd36dc23)
+</p>
 
 
 
