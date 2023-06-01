@@ -7,10 +7,21 @@
     </i>
 </p>
 
-[Telegram](https://t.me/shumakov_epta "@shumakov_epta")<br>
+[My Telegram](https://t.me/shumakov_epta "@shumakov_epta")<br>
+
+
+
+https://img.shields.io/badge/my%20telegram-%40shumakov__epta-brightgreen
 
 [![wakatime](https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23.svg?style=flat-square)](https://wakatime.com/@82b4e55b-b819-435e-9beb-0ebadd36dc23)
 
+ [![Vue][Vue.js]][Vue-url]
+ [![Telegram][Telegram]][Telegram-url]
+ 
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Telegram]: https://img.shields.io/badge/my%20telegram-%40shumakov__epta-brightgreen
+[Telegram-url]: https://t.me/shumakov_epta
 
 
 
