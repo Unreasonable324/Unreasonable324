@@ -7,6 +7,19 @@
     </i>
 </p>
 
+### My contacts
+ [![Vue](https://img.shields.io/badge/Mail-a8surd324%40yandex.ru-35495E?style=for-the-badge)](a8surd324@yandex.ru)
+
+### Stack
+ [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Unreasonable324)
+
+
+
+
+
+
+
+
 [My Telegram](https://t.me/shumakov_epta "@shumakov_epta")<br>
 
 
