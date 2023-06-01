@@ -14,7 +14,7 @@
 ## 
 
 ### Stack
- [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)](https://github.com/Unreasonable324)
+ [![HTML](https://img.shields.io/badge/HTML-232323?style=for-the-badge&logo=html5)](https://github.com/Unreasonable324)
  [![CSS](https://img.shields.io/badge/CSS-35495E?style=for-the-badge&logo=css3)](https://github.com/Unreasonable324)
  [![JAVASCRIPT](https://img.shields.io/badge/Java_Script-35495E?style=for-the-badge&logo=javascript)](https://github.com/Unreasonable324)
  [![BEM](https://img.shields.io/badge/BEM-35495E?style=for-the-badge&logo=bem)](https://github.com/Unreasonable324)
