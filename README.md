@@ -19,6 +19,7 @@
  [![JAVASCRIPT](https://img.shields.io/badge/Java_Script-35495E?style=for-the-badge&logo=javascript)](https://github.com/Unreasonable324)
  [![BEM](https://img.shields.io/badge/BEM-35495E?style=for-the-badge&logo=bem)](https://github.com/Unreasonable324)
  [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
+ [![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
  [![FIGMA](https://img.shields.io/badge/Figma-35495E?style=for-the-badge&logo=figma)](https://github.com/Unreasonable324)
  [![Axios](https://img.shields.io/badge/Axios-35495E?style=for-the-badge&logo=Axios)](https://github.com/Unreasonable324)
  [![npm](https://img.shields.io/badge/npm-35495E?style=for-the-badge&logo=npm)](https://github.com/Unreasonable324)
