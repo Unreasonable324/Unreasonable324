@@ -43,9 +43,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark" />
   </a>
 
-  <a href="https://github.com/Unreasonable324">
+<!--  <a href="https://github.com/Unreasonable324">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=github_dark" />
-  </a>
+  </a>-->
 
 ##
 
