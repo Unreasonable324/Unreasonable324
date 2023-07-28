@@ -22,6 +22,7 @@
  [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
  [![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
  [![Pinia](https://img.shields.io/badge/Pinia-35495E?style=for-the-badge)](https://github.com/Unreasonable324)
+ [![vite](https://img.shields.io/badge/vite-35495E?style=for-the-badge&logo=vite)](https://github.com/Unreasonable324)
  [![FIGMA](https://img.shields.io/badge/Figma-35495E?style=for-the-badge&logo=figma)](https://github.com/Unreasonable324)
  [![Axios](https://img.shields.io/badge/Axios-35495E?style=for-the-badge&logo=Axios)](https://github.com/Unreasonable324)
  [![npm](https://img.shields.io/badge/npm-35495E?style=for-the-badge&logo=npm)](https://github.com/Unreasonable324)
