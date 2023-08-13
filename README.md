@@ -56,10 +56,10 @@
 
   ##
 
-  ### my top projects
+  ### Part of my commercial projects
 
 <details>
-<summary><b>Сargo transportation website</b></summary>
+<summary><h2>Сargo transportation website</b></summary>
 Large-scale multi-page website.
 Dynamic routing, news feed, application processing, calculators for calculating the application price, feedback.
 
