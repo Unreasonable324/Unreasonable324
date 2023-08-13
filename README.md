@@ -29,17 +29,80 @@
  [![npm](https://img.shields.io/badge/npm-35495E?style=for-the-badge&logo=npm)](https://github.com/Unreasonable324)
  [![sass](https://img.shields.io/badge/sass-35495E?style=for-the-badge&logo=sass)](https://github.com/Unreasonable324)
  [![Nodejs](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=Nodedotjs)](https://github.com/Unreasonable324)
-  <!-- [![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python)](https://github.com/Unreasonable324)
-  [![Django](https://img.shields.io/badge/Django-35495E?style=for-the-badge&logo=Django)](https://github.com/Unreasonable324)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-35495E?style=for-the-badge&logo=PostgreSQL)](https://github.com/Unreasonable324)
-  [![Redis](https://img.shields.io/badge/Redis-35495E?style=for-the-badge&logo=Redis)](https://github.com/Unreasonable324) -->
+ 
  ##
  
-## Part of my commercial projects:
+### Part of my commercial projects:
+<details>
+<summary><h3>Online clothing store</h3></summary>
+A clothing store integrated into telegram.
+<br>
+Project stack: <i> Vue + vite, Vuex, Telegram Web Apps, Axios, Python, FastApi, PostgreSQL, Django, TelegramApi </i>
+
+##
+<table>
+  <tr>
+    <td>
+      <img src="./assets/shop-bot/1.jpg" width="100%" />
+    </td>
+    <td>
+      <img src="./assets/shop-bot/2.jpg" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/shop-bot/3.jpg" width="100%" />
+    </td>
+    <td>
+      <img src="./assets/shop-bot/4.jpg" width="100%" />
+    </td>
+  </tr>
+ 
+</table>
+
+<a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/e6ebe5ab-8593-49e1-a48a-e72db1a5b704"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/e6ebe5ab-8593-49e1-a48a-e72db1a5b704.svg?style=flat-square" alt="wakatime"></a>
+</details>
+<details>
+<summary><h3>Web bot for playing roulette</h3></summary>
+A robot playing roulette according to the set strategy.
+<br>
+Project stack: <i> Vue + vite, nginx, Vue + Chart.js, Axios, Python, FastApi, TelegramApi </i>
+
+##
+<table>
+  <tr>
+    <td>
+      <img src="./assets/bch-game/1.jpg" width="100%" />
+    </td>
+    <td>
+      <img src="./assets/bch-game/2.jpg" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/bch-game/3.jpg" width="100%" />
+    </td>
+    <td>
+      <img src="./assets/bch-game/4.jpg" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/bch-game/5.jpg" width="100%" />
+    </td>
+    
+  </tr>
+</table>
+
+<a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/592314e8-0e4a-4132-b769-69bd854809de"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/592314e8-0e4a-4132-b769-69bd854809de.svg?style=flat-square" alt="wakatime"></a>
+</details>
 <details>
 <summary><h3>Сargo transportation website</h3></summary>
 Large-scale multi-page website.
 Dynamic routing, news feed, application processing, calculators for calculating the application price, feedback.
+<br>
+Project stack:<i> Vue + vite, Axios, Python, PostgreSQL, Django, Redis</i>
+
 
 ##
 <table>
@@ -69,30 +132,31 @@ Dynamic routing, news feed, application processing, calculators for calculating 
 
 
 ##
- ### Coding activity over all time this profile
 
-[![wakatime](https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23.svg?style=for-the-badge)](https://wakatime.com/@82b4e55b-b819-435e-9beb-0ebadd36dc23)
-##
  ### Statistics
 
  <table>
   <tr>
     <td>
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark" />
-    </td>
-    <td>
        <img align="left" src="https://streak-stats.demolab.com?user=Unreasonable324&theme=github-dark-blue&hide_border=false&mode=weekly&card_width=300&hide_current_streak=true" alt="webDev's Github stats" />
     </td>
-    <td>
-     <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&\size_weight=1\&layout=compact&hide_progress=true\&hide=php,scss,scss\&theme=github_dark" />
+     <td>
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark" />
     </td>
+    <!-- <td>
+     <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&\size_weight=1\&layout=compact&hide_progress=true\&hide=php,scss,scss\&theme=github_dark" />
+    </td> -->
   </tr>
 
 </table>
 
 
  ##
+ 
+ ### Coding activity over all time this profile
 
+[![wakatime](https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23.svg?style=for-the-badge)](https://wakatime.com/@82b4e55b-b819-435e-9beb-0ebadd36dc23)
+##
 
 
  
