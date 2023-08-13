@@ -33,99 +33,99 @@
  ##
  
 ### Part of my commercial projects:
-<details>
-<summary><h3>Online clothing store</h3></summary>
-A clothing store integrated into telegram.
-<br>
-Project stack: <i> Vue + vite, Vuex, Telegram Web Apps, Axios, Python, FastApi, PostgreSQL, Django, TelegramApi </i>
++ <details>
+  <summary><h3>Online clothing store</h3></summary>
+  A clothing store integrated into telegram.
+  <br>
+  Project stack: <i> Vue + vite, Vuex, Telegram Web Apps, Axios, Python, FastApi, PostgreSQL, Django, TelegramApi </i>
 
-##
-<table>
-  <tr>
-    <td>
-      <img src="./assets/shop-bot/1.jpg" width="100%" />
-    </td>
-    <td>
-      <img src="./assets/shop-bot/2.jpg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./assets/shop-bot/3.jpg" width="100%" />
-    </td>
-    <td>
-      <img src="./assets/shop-bot/4.jpg" width="100%" />
-    </td>
-  </tr>
- 
-</table>
+  ##
+  <table>
+    <tr>
+      <td>
+        <img src="./assets/shop-bot/1.jpg" width="100%" />
+      </td>
+      <td>
+        <img src="./assets/shop-bot/2.jpg" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="./assets/shop-bot/3.jpg" width="100%" />
+      </td>
+      <td>
+        <img src="./assets/shop-bot/4.jpg" width="100%" />
+      </td>
+    </tr>
+  
+  </table>
 
-<a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/e6ebe5ab-8593-49e1-a48a-e72db1a5b704"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/e6ebe5ab-8593-49e1-a48a-e72db1a5b704.svg?style=flat-square" alt="wakatime"></a>
-</details>
-<details>
-<summary><h3>Web bot for playing roulette</h3></summary>
-A robot playing roulette according to the set strategy.
-<br>
-Project stack: <i> Vue + vite, nginx, Vue + Chart.js, Axios, Python, FastApi, TelegramApi </i>
+  <a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/e6ebe5ab-8593-49e1-a48a-e72db1a5b704"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/e6ebe5ab-8593-49e1-a48a-e72db1a5b704.svg?style=flat-square" alt="wakatime"></a>
+  </details>
++  <details>
+    <summary><h3>Web bot for playing roulette</h3></summary>
+    A robot playing roulette according to the set strategy.
+    <br>
+    Project stack: <i> Vue + vite, nginx, Vue + Chart.js, Axios, Python, FastApi, TelegramApi </i>
 
-##
-<table>
-  <tr>
-    <td>
-      <img src="./assets/bch-game/1.jpg" width="100%" />
-    </td>
-    <td>
-      <img src="./assets/bch-game/2.jpg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./assets/bch-game/3.jpg" width="100%" />
-    </td>
-    <td>
-      <img src="./assets/bch-game/4.jpg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./assets/bch-game/5.jpg" width="100%" />
-    </td>
-    
-  </tr>
-</table>
+    ##
+    <table>
+      <tr>
+        <td>
+          <img src="./assets/bch-game/1.jpg" width="100%" />
+        </td>
+        <td>
+          <img src="./assets/bch-game/2.jpg" width="100%" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="./assets/bch-game/3.jpg" width="100%" />
+        </td>
+        <td>
+          <img src="./assets/bch-game/4.jpg" width="100%" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="./assets/bch-game/5.jpg" width="100%" />
+        </td>
+        
+      </tr>
+    </table>
 
-<a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/592314e8-0e4a-4132-b769-69bd854809de"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/592314e8-0e4a-4132-b769-69bd854809de.svg?style=flat-square" alt="wakatime"></a>
-</details>
-<details>
-<summary><h3>Сargo transportation website</h3></summary>
-Large-scale multi-page website.
-Dynamic routing, news feed, application processing, calculators for calculating the application price, feedback.
-<br>
-Project stack:<i> Vue + vite, Axios, Python, PostgreSQL, Django, Redis</i>
+    <a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/592314e8-0e4a-4132-b769-69bd854809de"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/592314e8-0e4a-4132-b769-69bd854809de.svg?style=flat-square" alt="wakatime"></a>
+    </details>
+ +  <details>
+    <summary><h3>Сargo transportation website</h3></summary>
+    Large-scale multi-page website.
+    Dynamic routing, news feed, application processing, calculators for calculating the application price, feedback.
+    <br>
+    Project stack:<i> Vue + vite, Axios, Python, PostgreSQL, Django, Redis</i>
 
 
-##
-<table>
-  <tr>
-    <td>
-      <img src="./assets/cargo/1.jpg" width="100%" />
-    </td>
-    <td>
-      <img src="./assets/cargo/2.jpg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./assets/cargo/3.jpg" width="100%" />
-    </td>
-    <td>
-      <img src="./assets/cargo/4.jpg" width="100%" />
-    </td>
-  </tr>
-</table>
+    ##
+    <table>
+      <tr>
+        <td>
+          <img src="./assets/cargo/1.jpg" width="100%" />
+        </td>
+        <td>
+          <img src="./assets/cargo/2.jpg" width="100%" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="./assets/cargo/3.jpg" width="100%" />
+        </td>
+        <td>
+          <img src="./assets/cargo/4.jpg" width="100%" />
+        </td>
+      </tr>
+    </table>
 
-<a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/cba5c192-03dd-4b8c-aea5-7bc393ded9e2"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/cba5c192-03dd-4b8c-aea5-7bc393ded9e2.svg?style=flat-square" alt="wakatime"></a>
-</details>
+    <a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/cba5c192-03dd-4b8c-aea5-7bc393ded9e2"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/cba5c192-03dd-4b8c-aea5-7bc393ded9e2.svg?style=flat-square" alt="wakatime"></a>
+    </details>
 
 
 
