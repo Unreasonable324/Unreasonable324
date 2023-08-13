@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! </h1>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
@@ -25,14 +25,14 @@
  [![vite](https://img.shields.io/badge/vite-35495E?style=for-the-badge&logo=vite)](https://github.com/Unreasonable324)
  [![FIGMA](https://img.shields.io/badge/Figma-35495E?style=for-the-badge&logo=figma)](https://github.com/Unreasonable324)
  [![Axios](https://img.shields.io/badge/Axios-35495E?style=for-the-badge&logo=Axios)](https://github.com/Unreasonable324)
+ [![RESTAPI](https://img.shields.io/badge/REST_API-35495E?style=for-the-badge)](https://github.com/Unreasonable324)
  [![npm](https://img.shields.io/badge/npm-35495E?style=for-the-badge&logo=npm)](https://github.com/Unreasonable324)
  [![sass](https://img.shields.io/badge/sass-35495E?style=for-the-badge&logo=sass)](https://github.com/Unreasonable324)
  [![Nodejs](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=Nodedotjs)](https://github.com/Unreasonable324)
- [![RESTAPI](https://img.shields.io/badge/REST_API-35495E?style=for-the-badge)](https://github.com/Unreasonable324)
- [![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python)](https://github.com/Unreasonable324)
- [![Django](https://img.shields.io/badge/Django-35495E?style=for-the-badge&logo=Django)](https://github.com/Unreasonable324)
- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-35495E?style=for-the-badge&logo=PostgreSQL)](https://github.com/Unreasonable324)
- [![Redis](https://img.shields.io/badge/Redis-35495E?style=for-the-badge&logo=Redis)](https://github.com/Unreasonable324)
+  <!-- [![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python)](https://github.com/Unreasonable324)
+  [![Django](https://img.shields.io/badge/Django-35495E?style=for-the-badge&logo=Django)](https://github.com/Unreasonable324)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-35495E?style=for-the-badge&logo=PostgreSQL)](https://github.com/Unreasonable324)
+  [![Redis](https://img.shields.io/badge/Redis-35495E?style=for-the-badge&logo=Redis)](https://github.com/Unreasonable324) -->
  ##
  
 
@@ -42,10 +42,53 @@
   <a href="https://github.com/Unreasonable324">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark" />
   </a>
+  
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://streak-stats.demolab.com?user=Unreasonable324&theme=github-dark-blue&hide_border=false&mode=weekly&card_width=300&hide_current_streak=true" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&\size_weight=1\&layout=compact&hide_progress=true\&hide=php,scss,scss\&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
-<!--  <a href="https://github.com/Unreasonable324">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=github_dark" />
-  </a>-->
+  ##
+
+  ### my top projects
+
+<details>
+<summary><b>Сargo transportation website</b></summary>
+Large-scale multi-page website.
+Dynamic routing, news feed, application processing, calculators for calculating the application price, feedback.
+
+##
+<table>
+  <tr>
+    <td>
+      <img src="./assets/cargo/1.jpg" width="100%" />
+    </td>
+    <td>
+      <img src="./assets/cargo/2.jpg" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/cargo/3.jpg" width="100%" />
+    </td>
+    <td>
+      <img src="./assets/cargo/4.jpg" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<a href="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/cba5c192-03dd-4b8c-aea5-7bc393ded9e2"><img src="https://wakatime.com/badge/user/82b4e55b-b819-435e-9beb-0ebadd36dc23/project/cba5c192-03dd-4b8c-aea5-7bc393ded9e2.svg?style=for-the-badge" alt="wakatime"></a>
+</details>
+
+
+
+
 
 ##
 
