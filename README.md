@@ -36,7 +36,6 @@
  ##
  
 ### Part of my commercial projects:
-
 <details>
 <summary><h3>Сargo transportation website</h3></summary>
 Large-scale multi-page website.
