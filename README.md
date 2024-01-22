@@ -17,6 +17,7 @@
  [![HTML](https://img.shields.io/badge/HTML-35495E?style=for-the-badge&logo=html5)](https://github.com/Unreasonable324)
  [![CSS](https://img.shields.io/badge/CSS-35495E?style=for-the-badge&logo=css3)](https://github.com/Unreasonable324)
  [![JAVASCRIPT](https://img.shields.io/badge/Java_Script-35495E?style=for-the-badge&logo=javascript)](https://github.com/Unreasonable324)
+ [![TypeScript](https://img.shields.io/badge/Type_Script-35495E?style=for-the-badge&logo=typescript)](https://github.com/Unreasonable324)
  [![BEM](https://img.shields.io/badge/BEM-35495E?style=for-the-badge&logo=bem)](https://github.com/Unreasonable324)
  [![Chart.js](https://img.shields.io/badge/Chart.js-35495E?style=for-the-badge&logo=Chart.js)](https://github.com/Unreasonable324)
  [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
