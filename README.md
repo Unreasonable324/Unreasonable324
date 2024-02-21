@@ -137,22 +137,7 @@
 
 ##
 
- ### Statistics
 
- <table>
-  <tr>
-    <td>
-       <img align="left" src="https://streak-stats.demolab.com?user=Unreasonable324&theme=github-dark-blue&hide_border=false&mode=weekly&card_width=300&hide_current_streak=true" alt="webDev's Github stats" />
-    </td>
-     <td>
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unreasonable324&theme=github_dark" />
-    </td>
-    <!-- <td>
-     <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreasonable324&\size_weight=1\&layout=compact&hide_progress=true\&hide=php,scss,scss\&theme=github_dark" />
-    </td> -->
-  </tr>
-
-</table>
 
 
  ##
