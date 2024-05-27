@@ -22,6 +22,7 @@
  [![Chart.js](https://img.shields.io/badge/Chart.js-35495E?style=for-the-badge&logo=Chart.js)](https://github.com/Unreasonable324)
  [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
  [![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs)](https://github.com/Unreasonable324)
+ [![Nodejs](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=Nodedotjs)](https://github.com/Unreasonable324)
  [![Pinia](https://img.shields.io/badge/Pinia-35495E?style=for-the-badge)](https://github.com/Unreasonable324)
  [![Vue-Query](https://img.shields.io/badge/Vue_Query-35495E?style=for-the-badge&logo=vuedotjs&logoColor=red)](https://github.com/Unreasonable324)
  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-35495E.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue)](https://github.com/Unreasonable324)
@@ -33,8 +34,8 @@
  [![JWT](https://img.shields.io/badge/JWT-35495E?style=for-the-badge&logo=JSON%20web%20tokens)](https://github.com/Unreasonable324)
  [![npm](https://img.shields.io/badge/npm-35495E?style=for-the-badge&logo=npm)](https://github.com/Unreasonable324)
  [![sass](https://img.shields.io/badge/sass-35495E?style=for-the-badge&logo=sass)](https://github.com/Unreasonable324)
- [![Nodejs](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=Nodedotjs)](https://github.com/Unreasonable324)
- 
+ [![Postgres](https://img.shields.io/badge/postgres-35495E.svg?style=for-the-badge&logo=postgresql&logoColor=23316192)](https://github.com/Unreasonable324)
+ [![Postman](https://img.shields.io/badge/Postman-35495E?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://github.com/Unreasonable324)
  ##
  
 ### Part of my commercial projects:
