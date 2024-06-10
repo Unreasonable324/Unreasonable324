@@ -35,6 +35,7 @@
  [![npm](https://img.shields.io/badge/npm-35495E?style=for-the-badge&logo=npm)](https://github.com/Unreasonable324)
  [![sass](https://img.shields.io/badge/sass-35495E?style=for-the-badge&logo=sass)](https://github.com/Unreasonable324)
  [![Postgres](https://img.shields.io/badge/postgres-35495E.svg?style=for-the-badge&logo=postgresql&logoColor=23316192)](https://github.com/Unreasonable324)
+ [![SQLite](https://img.shields.io/badge/sqlite-35495E.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/Unreasonable324)
  [![Postman](https://img.shields.io/badge/Postman-35495E?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://github.com/Unreasonable324)
  ##
  
