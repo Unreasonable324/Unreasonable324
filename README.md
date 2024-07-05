@@ -28,6 +28,7 @@
  [![Pinia](https://img.shields.io/badge/Pinia-35495E?style=for-the-badge)](https://github.com/Unreasonable324)
  [![TanStack_Query](https://img.shields.io/badge/TanStack_Query-35495E?style=for-the-badge&logo=vuedotjs&logoColor=red)](https://github.com/Unreasonable324)
  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-35495E.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue)](https://github.com/Unreasonable324)
+ [![i18n](https://img.shields.io/badge/i18n-35495E.svg?style=for-the-badge)](https://github.com/Unreasonable324)
  [![vite](https://img.shields.io/badge/vite-35495E?style=for-the-badge&logo=vite)](https://github.com/Unreasonable324)
  [![FIGMA](https://img.shields.io/badge/Figma-35495E?style=for-the-badge&logo=figma)](https://github.com/Unreasonable324)
  [![Axios](https://img.shields.io/badge/Axios-35495E?style=for-the-badge&logo=Axios)](https://github.com/Unreasonable324)
